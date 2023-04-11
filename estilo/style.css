@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 /*@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cedarville+Cursive&display=swap');*/
 
-@font-face {font-family: 'Android';
+@font-face {    font-family: 'Android';
     src:url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;}
 
